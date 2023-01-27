@@ -1,0 +1,1 @@
+create table dummy_tbl(check1 int,check2 varchar(50),check3 int);
